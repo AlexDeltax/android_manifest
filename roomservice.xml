@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="gitlab" fetch="https://gitlab.com" />
   <project name="AlexDeltax/android_device_xiaomi_rolex" path="device/xiaomi/rolex" remote="github" revision="lineage-dev" />
   <project name="AlexDeltax/android_kernel_xiaomi_msm8917" path="kernel/xiaomi/msm8917" remote="github" revision="kernel-3.18.117" />
   <project name="AlexDeltax/android_vendor_xiaomi_rolex" path="vendor/xiaomi/rolex" remote="github" revision="lineage-15.1" />
-  <project name="AlexDeltax/gcc-prebuilts" path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-8.2" remote="gitlab" revision="8.2.1" />
 </manifest>
